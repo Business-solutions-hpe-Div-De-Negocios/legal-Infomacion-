@@ -88,12 +88,9 @@ sujeto a las siguientes condiciones:
 - y  como el  uso No autorizado del Codigo fuentes de las app , software , Pagina Web , o cualquier otro servicio,Images,
 - 
 -  y derivados para la creación de proyectos alternos derivados o competidores.de nuestras Soluciones De negocios en caulquier categoria
-- Las mejoras , Respaldo tecnico , u otro Servicio esta incluido en el Costo del Software Siempre y cuando el Usuario garantize el correcto funcionamiento y la integridad del Mismo
-- 
-- y sus Distintas Versiones por nuestro desarolladores si en Dado caso 1er Software presentara alguna Falla
--  se le otorgara un cambio anulando La Garantia de la 1era adquisicion como respectivamente el lapso de Uso como ,
--   tiempo restante  La garantia Pasaria a Cero Limitandose a consulta y  servicio basico de uso
-
+- Las mejoras , Respaldo tecnico , u otro Servicio esta incluido en el Costo del Software Siempre
+- y cuando el Usuario garantize el correcto funcionamiento y la integridad del Mismo
+  
 -   el software incluye un gestor de falla interno para su integridad y correcto funcionamiento
 -   y De auto instalacion No hace Falta  Ing IT para su mantenimiento 
 - 
