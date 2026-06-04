@@ -93,11 +93,8 @@ sujeto a las siguientes condiciones:
   
 -   el software incluye un gestor de falla interno para su integridad y correcto funcionamiento
 -   y De auto instalacion No hace Falta  Ing IT para su mantenimiento 
-- 
-- y  es de Su Responsabilidad el correcto funcionamiento
--
--   ( el software se puede instalar nuevamente en el Mismo Equipo  con la misma key  en dado caso de mantenimieto programado de Servidores) 
--
+  
+  
 - por la Empresa Prestante del servicio asociado de 3eros nunca lo podra ejecutar el Usuario y/o por el cliente 
 
 
