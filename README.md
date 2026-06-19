@@ -55,14 +55,14 @@ Copyright (c) 2026 Todos los derechos reservados.Corresponde legalmente  solo a
 
 Por la presente se otorga permiso al comprador legítimo ("Licenciatario") 
 para utilizar Legalmente este software y los archivos de diseño web asociados
-como ( solo  el uso Limitado del "Software")  dentro del entorno donde esta instalado  sin uso a 3eros/Comercial ,
+como ( solo  el uso Limitado del "Software")  dentro del entorno donde esta instalado  sin uso a 3 eros/Comercial ,
 
 sujeto a las siguientes condiciones:
 
 1. PROPIEDAD INTELECTUAL Limitada y restringida De Uso :
 2. El uso del Software, su código fuente,como diseño de interfaz (UI/UX),esta Restringido a
 3. solo por uso legitmo de adquisicion y mientras el software se este ejecutando y usando el software / app / y/o el sitio Web en su(s)  Dispositivo(s)
-4. para cumplir con la funcion para la cual fue credao 
+4. para cumplir con la funcion para la cual fue creado 
 5. el Software , Codigo Completo , textos,contenido
 6. No podra ser ofuscado con ningun Codigo ni sometido a Ingenieria Inversa por ninguna persona
 7. ,las distintas version de software estan incluidos en los derechos legales de Ley internacionales
@@ -81,7 +81,7 @@ sujeto a las siguientes condiciones:
 -   
 - El Licenciatario NO puede realizar ingeniería inversa,, ni ofuscar el Codigo, descompilar
 -  ni desensamblar el código fuente del y/o los  Software. la compra solo le da Derecho legales usarlos en Los dispositivos
--   Permitidos y el Tiempo acordado ,Su uso es solo Comercial y de utilidad para lo cual fue diseñado principalmente sin Ningun tipo de  Usos Dañinos a 3eros
+-   Permitidos y el Tiempo acordado ,Su uso es solo Comercial y de utilidad para lo cual fue diseñado principalmente sin Ningun tipo de  Usos Dañinos a 3 eros
 -   
 - Queda estrictamente prohibido el uso No autorizado Comercial y restribucion del diseño visual y la interfaz gráfica
 - del y/o el/los software(s) desarollador por nosotros como Empresa
@@ -106,7 +106,7 @@ sujeto a las siguientes condiciones:
 8. dentro o Fuera de Github se considera ilegal y Penada Por la Ley internacional de Derecho De autor .
 
 
-9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 722.254.00 USD / 10 BTC por descarga Trnasferida  hacia 3eros
+9. y Sensible a (un pago  Irrevocable  de fiel cumplimiento de la cantidad de 722.254.00 USD / 10 BTC por descarga Trnasferida  hacia 3 eros
 10.
 11. a Nombre de leonardo Daza Blanco ,
 12.   
